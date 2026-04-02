@@ -8,7 +8,7 @@ Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONA
 
 
 ### Activity 2
-[Breakdown](https://github.com/user-attachments/assets/02e5d4ab-0e68-4337-9a0d-8132fd4374e0)
+<img width="1620" height="1202" alt="image" src="https://github.com/user-attachments/assets/0d1f6318-cb0c-4bc7-b585-1b23c43ac828" />
 
 
 
