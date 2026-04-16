@@ -14,5 +14,6 @@
 
 
 ## W2
+### Activity 1
 <img width="960" height="720" alt="Untitled drawing (2)" src="https://github.com/user-attachments/assets/2841620f-6c35-4ea0-be0a-beb1e3dc8fa7" />
 
