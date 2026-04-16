@@ -17,3 +17,11 @@
 ### Activity 1
 <img width="960" height="720" alt="Untitled drawing (2)" src="https://github.com/user-attachments/assets/2841620f-6c35-4ea0-be0a-beb1e3dc8fa7" />
 
+### Activity 2
+1. It is advantageous to use a scene variable for the event because we can then fire the event from a seperate object.
+
+2. Using a debug.log node helped me to detect if the event transitioning from explore to dialogue was firing. We had struggled to fire the event due to the fact that we were referencing the event incorrectly from the other script machine. We were able to find the source of the area because my "Hi" message wasn't appearing in the console.
+
+3. Yes it is because my game is going to run in a third person over the shoulder perspective, which means that the mouse will need to be able to control the camera within the confines of the scene window.
+
+4. Yes because in my vertical slice both the player and the monster will have multiple states. For example, the monster will be able to wander, pursue, and attack.
