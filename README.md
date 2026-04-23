@@ -30,6 +30,12 @@
 ### Activity 1
 1. Movement and Aim down sights.
 2. Playtesting goals: how do they feel about the slow down effect, how do they feel about the level
+3. Notes: The movement speed is a nice touch, the world looks cool, gunplay needs to be added ASAP
+
+#### Playtesters 
+Kai M, Kai L, Marcelo T, Nathan H
 
 ### Activity 2
-Kai M, Kai L, Marcelo T, Nathan H
+1. Yes because the scriptable objects allow writers to add dialogue nodes through the inspector.
+2. The writers could conitinously add nodes I believe, without writing code.
+3. It provides nodes for visual scripting that are not necessarily readily available within the scene. Some may come from imported packages or may be created by the player; the regenerate node button implements all of them inot the node library.
