@@ -13,4 +13,8 @@ MonoBehaviour:
   m_Name: DialogueLine_shiba2
   m_EditorClassIdentifier: 
   Line: kill everyone!
-  ReplyOptions: []
+  ReplyOptions:
+  - line: Reply1
+    nextNode: {fileID: 0}
+  - line: Reply2
+    nextNode: {fileID: 0}

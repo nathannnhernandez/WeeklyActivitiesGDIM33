@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
   m_Name: DialogueLineW4
   m_EditorClassIdentifier: 
-  Line: 
-  ReplyOptions: []
+  Line: meow
+  ReplyOptions:
+  - line: Reply1
+    nextNode: {fileID: 11400000, guid: c9174b6d36469e14ab00b0bd30ff3492, type: 2}
+  - line: Reply2
+    nextNode: {fileID: 11400000, guid: 3ca03bdcdad4c7c4cb2e3b2494505e7d, type: 2}
