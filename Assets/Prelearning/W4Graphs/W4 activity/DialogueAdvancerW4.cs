@@ -7,10 +7,15 @@ namespace W4Activity
     {
         // Singleton stuff- allows this class to be accessed from anywhere in the codebase without a reference (like a member variable)
         // do not edit this line
+        [SerializeField] public DialogueNodeW4 _dialogueAdvancerW4;
         public static DialogueAdvancerW4 _Instance {get; private set;}
-
+       void Start()
+        {
+            ChooseDialogue(_dialogueAdvancerW4);
+        }
         // More Singleton stuff
         // do not edit this method
+ 
         private void Awake() {
             if (_Instance != null && _Instance != this) {
                 Destroy(this);
