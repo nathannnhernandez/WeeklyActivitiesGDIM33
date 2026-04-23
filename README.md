@@ -13,7 +13,7 @@
 
 
 
-## W2
+## W3
 ### Activity 1
 <img width="960" height="720" alt="Untitled drawing (2)" src="https://github.com/user-attachments/assets/2841620f-6c35-4ea0-be0a-beb1e3dc8fa7" />
 
@@ -25,3 +25,11 @@
 3. Yes it is because my game is going to run in a third person over the shoulder perspective, which means that the mouse will need to be able to control the camera within the confines of the scene window.
 
 4. Yes because in my vertical slice both the player and the monster will have multiple states. For example, the monster will be able to wander, pursue, and attack.
+
+## W4
+### Activity 1
+1. Movement and Aim down sights.
+2. Playtesting goals: how do they feel about the slow down effect, how do they feel about the level
+
+### Activity 2
+Kai M, Kai L, Marcelo T, Nathan H
