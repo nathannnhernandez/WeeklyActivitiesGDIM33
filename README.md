@@ -39,3 +39,14 @@ Kai M, Kai L, Marcelo T, Nathan H
 1. Yes because the scriptable objects allow writers to add dialogue nodes through the inspector.
 2. The writers could conitinously add nodes I believe, without writing code.
 3. It provides nodes for visual scripting that are not necessarily readily available within the scene. Some may come from imported packages or may be created by the player; the regenerate node button implements all of them inot the node library.
+
+## W5
+### Activity 1
+NavMesh Monster
+1. Make npc move towards player using NavMesh
+   a) create + bake NavMesh
+   b) make NPC move towards player
+   c) make NPC pursue on every frame
+2. NPC controller by sightlines
+   a) draw raycast using gizmos
+   b) make NPC stop chasing player when out of sight
