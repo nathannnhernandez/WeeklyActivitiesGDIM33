@@ -51,9 +51,11 @@ NavMesh Monster
    
    c) make NPC pursue on every frame
    
-3. NPC controller by sightlines
+2. NPC controller by sightlines
    
    a) draw raycast using gizmos
    
    b) make NPC stop chasing player when out of sight
+### Activity 2
+Completed Step 1, completed step 2a.
    
