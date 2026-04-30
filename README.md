@@ -44,9 +44,16 @@ Kai M, Kai L, Marcelo T, Nathan H
 ### Activity 1
 NavMesh Monster
 1. Make npc move towards player using NavMesh
+   
    a) create + bake NavMesh
+   
    b) make NPC move towards player
+   
    c) make NPC pursue on every frame
-2. NPC controller by sightlines
+   
+3. NPC controller by sightlines
+   
    a) draw raycast using gizmos
+   
    b) make NPC stop chasing player when out of sight
+   
