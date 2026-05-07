@@ -62,9 +62,13 @@ Completed Step 1, completed step 2a.
 
 ## W6
 ### Activity 1
+
 Playtest Goal: answer these questions
+
 How does the new sensitivity feel?
+
 Should the monster be slower?
+
 How hard should the monster be easier to escape from?
 
 [itch build](https://nathannnhernandez.itch.io/hiddeninhavenbuild2)
