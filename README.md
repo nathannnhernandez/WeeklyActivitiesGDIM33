@@ -71,7 +71,19 @@ How does the new sensitivity feel?
 
 Should the monster be slower?
 
-How hard should the monster be easier to escape from?
+How hard should the monster be easier to escape from?\
+
+Notes: the sensitivity is too high, the monster should be easier to slow down, the escapability factor is okay.
+
+### Activity 2
+
+1. The RGB values are factors of less than 1, which decreases the saturation and brightenss, as multiplying by a decimal value decreases the product.
+
+2. The result would be a more transluscent figure because multiply decreases the value when combining two colors. Since alpha handles the transparancy of materials, multiply will make the object more opaque
+
+3. The shader gets the UV values from the nodes itself, as the UV graph is what determines the transform of each vertice within the texture, aligning it with a game object. Without the UV0 node being created, the sample texture wouldn't be able to properly render the position of each vertice.
+
+4. i like color and i like math
 
 [itch build](https://nathannnhernandez.itch.io/hiddeninhavenbuild2)
    
