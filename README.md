@@ -90,23 +90,36 @@ Notes: the sensitivity is too high, the monster should be easier to slow down, t
 
 ## W7
 For our vertex color shader in step (2), where did the data for the Vertex Color node come from?
+   
    Most of the nodes contain data from the original mesh.
 
+
 Since vertex color is stored as data in each vertex of the mesh, why is the color on our shiba from step (3) blended at the edges of different regions of color?
+   
    The normal debug shader uses xyz components of surface normals to apply the texture.
 
+
 Why is the shiba from step (3), which is colored with vertex color, less detailed than the shiba we rendered with a texture in last week’s activity? Given that vertex color generally results in a less detailed color application than applying a texture, what can you imagine vertex color is useful for?
+   
    The Shiba is less detailed because vertex colors are less detailed than textures. This can be useful for optimization as they are less demanding.
 
+
 Based on the color of the shiba in step (3), does anything look wrong with the mesh’s vertex normals?
+   
    On the hip of the Shiba, there is a visual blemish that does not fit in the context of the vertex shader.
 
+
 We used the color output of a shader to visualize a mesh’s vertex normal values in step (4). Name one other piece of vertex data (or any kind of data) you can imagine testing with a debug shader like this, and describe why that might be useful.
+   
    Testing lighting with a debug shader can be useful, due to the impact the direction of surface normals has on the visual product of a shader graph.
 
+
 Why is there an error in the lighting in step (4) on the back of the Shiba?
+   
    The blemish on the back of the Shiba results from the fact that the surface normal is negative relative to the rest of the Shiba.
 
+
 Why do you think we set the Blend Mode to Additive for the fire effect in Step (5)?
+   
    The formula inherent to additive blending ensures that the colors will shine brighter than alpha blending, due to the fact that alpha blending multiplies by a decimal factor
    
