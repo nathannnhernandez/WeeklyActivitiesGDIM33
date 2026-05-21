@@ -131,13 +131,13 @@ What has changed: Since milestone 2, the only thing that has changed in my game 
 
 ### Activity 2
 Open the Frame Debugger window under Windows >Analysis > Frame Debugger. What's the name of the pass associated with the post-processing effect we created? Other than the name being kinda obvious, how can you tell?
-
+I think it is uberpost. You can tell by unfolding the render post processing effects tab, then navigating to uberpost process and checking for the pass.
 
 What does the screen look like if the Lerp value is set to 0.5? What about 0? What about 1?
-
+The lower the value, the more opaque the visual effect.
 
 WHY does the screen look like that based on those different Lerp values?
-
+The third value of the lerp node is th alpha valy\e which determines the opacity.
 
 Why does our algorithm for the Lerp amount use (sin(time)+1)/2 instead of just sin(time)? (see instructions for hints)
-
+The range of the sin function is between -1 and 1, however we need values between 0 and 1.
