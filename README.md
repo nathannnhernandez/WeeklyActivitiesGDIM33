@@ -128,3 +128,16 @@ Why do you think we set the Blend Mode to Additive for the fire effect in Step (
 The main issue with my game was that the level wasn't intuitive enough. With all of my mechanics now implemented, I can start designing my level and creating the setpieces I intend to add into the game. I also want to add lore drops, which would add more context as to what the player needs to do in order to win.   
 
 What has changed: Since milestone 2, the only thing that has changed in my game was my monster. I imported a robotic looking creature from an animation site and gave him unique animations for movement. I need to add an attack animation for sure tho.
+
+### Activity 2
+Open the Frame Debugger window under Windows >Analysis > Frame Debugger. What's the name of the pass associated with the post-processing effect we created? Other than the name being kinda obvious, how can you tell?
+
+
+What does the screen look like if the Lerp value is set to 0.5? What about 0? What about 1?
+
+
+WHY does the screen look like that based on those different Lerp values?
+
+
+Why does our algorithm for the Lerp amount use (sin(time)+1)/2 instead of just sin(time)? (see instructions for hints)
+
