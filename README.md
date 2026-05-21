@@ -122,4 +122,9 @@ Why is there an error in the lighting in step (4) on the back of the Shiba?
 Why do you think we set the Blend Mode to Additive for the fire effect in Step (5)?
    
    The formula inherent to additive blending ensures that the colors will shine brighter than alpha blending, due to the fact that alpha blending multiplies by a decimal factor
-   
+
+## W8
+### Activity 1
+The main issue with my game was that the level wasn't intuitive enough. With all of my mechanics now implemented, I can start designing my level and creating the setpieces I intend to add into the game. I also want to add lore drops, which would add more context as to what the player needs to do in order to win.   
+
+What has changed: Since milestone 2, the only thing that has changed in my game was my monster. I imported a robotic looking creature from an animation site and gave him unique animations for movement. I need to add an attack animation for sure tho.
