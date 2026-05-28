@@ -145,11 +145,15 @@ The range of the sin function is between -1 and 1, however we need values betwee
 ## W9
 ### Activity 1
 Mario Kart VFX Examples
+
 Effect 1: Mario Kart Ink Debuff
+
 This is a full-screen post-processing effect applied to the entire camera 
 The shader involves applying temporary moving inkblot textures to the camera after the player gets attacked by a squid powerup
 I might activate the effect by enabling an entire post-processing effect and then using methods to instantiate inkblots at random coordinates. Once created, the inkblot shader graph will handle its shape and movement. 
+
 Effect 2: Mario Kart Star Power Up Cart Effect
+
 Individual Object’s Material
 This would be activated when players use a star power up
 I believe that this involves multiplying the rainbow effect on top of the model of the player and their cart kind of like the shiba activity but instead of replacing the model it combines them. The rainbow effect would likely be drawn from a pre-made gradient texture. 
