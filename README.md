@@ -158,3 +158,7 @@ Individual Object’s Material
 This would be activated when players use a star power up
 I believe that this involves multiplying the rainbow effect on top of the model of the player and their cart kind of like the shiba activity but instead of replacing the model it combines them. The rainbow effect would likely be drawn from a pre-made gradient texture. 
 ### Activity 2
+<img width="1569" height="992" alt="image" src="https://github.com/user-attachments/assets/fdcda786-df50-4501-9efa-7f78a25a6d10" />
+
+Created the material + graph for the damage vignette effect, just need to trigger on hit now
+
