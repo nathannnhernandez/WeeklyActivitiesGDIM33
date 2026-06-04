@@ -174,3 +174,10 @@ Created the material + graph for the damage vignette effect, just need to trigge
 
 - Response: add lore early on, vfx looks cool but doesnt function right on itch, balancing is good but add sensitivity slider for preference
 
+### Activity 2
+1. Identify game: mechanics, systems, aesthetics, narrative, etc
+2. Breakdown game systems using bubble charts that conect each system
+3. Create a macro/burndown chart for your project's scope
+4. Focus on scalability based on game identification: use prefabs, serialized fields, scriptable objects, singletons, parent classes, etc
+5. Playtest frequently (at least every other week): new and returning players
+6. Create playtest goals + take notes
