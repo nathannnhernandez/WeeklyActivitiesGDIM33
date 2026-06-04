@@ -181,3 +181,5 @@ Created the material + graph for the damage vignette effect, just need to trigge
 4. Focus on scalability based on game identification: use prefabs, serialized fields, scriptable objects, singletons, parent classes, etc
 5. Playtest frequently (at least every other week): new and returning players
 6. Create playtest goals + take notes
+
+As for a games scope, if your vertical slice is fat, it can be hard to make it tall without it falling over. Breaking down the core mechanics of your game can make it much easier to recognize when your slice is getting too fat.
