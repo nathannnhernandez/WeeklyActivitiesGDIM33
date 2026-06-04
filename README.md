@@ -172,3 +172,5 @@ Created the material + graph for the damage vignette effect, just need to trigge
 
 - Feedback on VFX
 
+- Response: add lore early on, vfx looks cool but doesnt function right on itch, balancing is good but add sensitivity slider for preference
+
