@@ -162,3 +162,13 @@ I believe that this involves multiplying the rainbow effect on top of the model 
 
 Created the material + graph for the damage vignette effect, just need to trigger on hit now
 
+## W10 :)
+### Activity 1
+- Feedback on level design
+
+- Feedback on difficulty
+
+- Feedback on audio
+
+- Feedback on VFX
+
