@@ -182,4 +182,4 @@ Created the material + graph for the damage vignette effect, just need to trigge
 5. Playtest frequently (at least every other week): new and returning players
 6. Create playtest goals + take notes
 
-As for a games scope, if your vertical slice is fat, it can be hard to make it tall without it falling over. Breaking down the core mechanics of your game can make it much easier to recognize when your slice is getting too fat.
+As for a games scope, if your vertical slice is fat, it can be hard to make it tall. Breaking down the core mechanics of your game can make it much easier to recognize when your slice is getting too fat.
