@@ -183,3 +183,6 @@ Created the material + graph for the damage vignette effect, just need to trigge
 6. Create playtest goals + take notes
 
 As for a games scope, if your vertical slice is fat, it can be hard to make it tall. Breaking down the core mechanics of your game can make it much easier to recognize when your slice is getting too fat.
+
+### Activity 3
+added adjustable sensitivity
